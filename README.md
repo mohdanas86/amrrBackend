@@ -2,6 +2,9 @@
 
 A FastAPI-based wallet management system for the AMRR TechSols technical assignment.
 
+### Live Preview 
+https://amrr-wallet-api.onrender.com/docs
+
 ## Assignment Requirements ✅
 
 This project fulfills all the requirements:
